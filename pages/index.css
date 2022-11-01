@@ -1,0 +1,30 @@
+@import "../vendor/normalize.css";
+@import "../vendor/fonts.css";
+@import "../variables.css";
+
+@import "../blocks/page/page.css";
+@import "../blocks/container/container.css";
+
+@import "../blocks/promo/promo.css";
+@import "../blocks/promo/__block/promo__block.css";
+@import "../blocks/promo/__text/promo__text.css";
+@import "../blocks/promo/__description/promo__description.css";
+@import "../blocks/promo/__lead/promo__lead.css";
+
+@import "../blocks/header/header.css";
+
+@import "../blocks/intro/intro.css";
+
+@import "../blocks/logo/logo.css";
+
+@import "../blocks/menu/menu.css";
+@import "../blocks/menu/__list/menu__list.css";
+
+@import "../blocks/button/button.css";
+@import "../blocks/button/_small/button_small.css";
+
+@import "../blocks/booking/booking.css";
+@import "../blocks/booking/__form/booking__form.css";
+@import "../blocks/booking/__item/booking__item.css";
+
+

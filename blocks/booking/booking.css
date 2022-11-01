@@ -1,0 +1,12 @@
+.booking {
+    margin-top: 110px;
+    margin-left: 135px;
+    width: 970px;
+    height: 101px;
+    background: var(--booking);
+    border-radius: 16px;
+    border: var(--booking) 1px solid;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

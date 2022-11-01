@@ -1,0 +1,49 @@
+.booking__item {
+    display: flex;
+    flex-direction: column;
+    margin-right: 27px;
+}
+
+.booking__item:last-child {
+    margin-right: 0;
+}
+.booking__item > label {
+    margin-bottom: 10px;
+
+}
+
+.booking__item > input,  .booking__item > select {
+    width: 167px;
+    height: 38px;
+    background: var(--white);
+    border:none;
+    border-radius: 8px;
+}
+.booking__item > select {
+    width: 70px;
+}
+
+.booking__item > select#child.promo__text, .booking__item > select#adult.promo__text {
+    padding-left: 7px;
+    color: var(--grey3);
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+}
+
+input::-webkit-input-placeholder {
+    padding-left: 11px;
+    color: var(--grey3);
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+}
+input:-moz-placeholder {
+    color: var(--grey3);
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+}

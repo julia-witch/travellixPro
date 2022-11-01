@@ -1,0 +1,12 @@
+.promo__lead {
+    padding-bottom: 30px;
+    color: var(--grey);
+    font-style: normal;
+    font-weight: 700;
+    font-size: 60px;
+    line-height: 1.2;
+}
+
+.promo__lead > span {
+    color: var(--blue);
+}

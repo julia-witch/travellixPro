@@ -1,0 +1,9 @@
+.promo {
+    margin: 0 auto;
+    padding-top: 27px;
+    height: 828px;
+    background-color: var(--blue-fond);
+    background-image: url("../../images/main-picture.svg");
+    background-repeat: no-repeat;
+    background-position: top right;
+}
